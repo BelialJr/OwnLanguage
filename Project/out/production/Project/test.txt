@@ -1,0 +1,81 @@
+include<>
+
+global number g1 = 2;
+
+function::void toDo1(int wrt1,int wrt2);
+function::number toDo2(char c);
+
+function::void toTest()
+{
+   number b = 5;
+}
+
+function::number main()
+{
+   number n1 = 0;
+   bool b1 = true;
+
+    if(b1 == true)
+    {
+     if(true){
+            number a = 2;
+         }else{
+         number a1 = 2;
+         }
+    }
+
+    else
+    {
+        n1 = 10;
+    }
+}
+number
+a
+=
+2
+;
+
+number
+a2
+[
+10
+]
+a
+=
+5;
+
+if
+(
+a
+==
+b
+)
+{
+   number
+   a
+   =
+   2
+   ;
+}
+else
+{
+   number
+     a
+     =
+     3
+     ;
+}
+
+for
+(
+int
+i
+=
+0
+;
+i
+<
+5
+;
+i++
+)
